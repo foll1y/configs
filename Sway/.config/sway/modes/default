@@ -135,3 +135,10 @@
 
     # Move focus to the parent container
     $bindsym $mod+a focus parent
+
+
+
+
+#swaylock
+bindsym $mod+p exec $lockman
+
